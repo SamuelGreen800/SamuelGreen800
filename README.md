@@ -17,7 +17,8 @@ Upon graduation, I've now thrown myself into a deep dive of the Java/Spring ecos
      alt="JSP logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg" align=""
      alt="Bootstrap logo" width="50" height="50">
-     
+     <br>
+ <br>
   
   &nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align=""
      alt="JS logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,7 +37,8 @@ Upon graduation, I've now thrown myself into a deep dive of the Java/Spring ecos
   <img src="https://www.rlogical.com/wp-content/uploads/2021/08/Rlogical-Blog-Images-thumbnail.png" align=""
      alt="Next.js logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" align=""
-     alt="Next.js logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     alt="Next.js logo" width="50" height="50"><br>
+ <br>
      
   
      
@@ -51,16 +53,18 @@ Upon graduation, I've now thrown myself into a deep dive of the Java/Spring ecos
      <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/1280px-AJAX_logo_by_gengns.svg.png" align=""
      alt="Ajax logo"  height="50">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" align=""
-     alt="sqlAlchemy logo" width="100" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     
+     alt="sqlAlchemy logo" width="100" height="50"><br>
+ <br>
      
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" align=""
      alt="HTML logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" align=""
-     alt="CSS logo" width="80" height="80">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     alt="CSS logo" width="80" height="80"><br>
+ <br>
         
   
- ## **Tools:**
+ ## **Tools:**<br>
+ <br>
  
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align=""
      alt="VsCode logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -69,10 +73,33 @@ Upon graduation, I've now thrown myself into a deep dive of the Java/Spring ecos
      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.png" align=""
      alt="Eclipse logo"  height="50">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" align=""
-     alt="Eclipse logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     alt="Eclipse logo" width="50" height="50"><br> 
+     <br>
+ 
      
      
      
-        
+  ## **Notable Projects:**
+  <br>
+ <br>
+ 
+  [Gilboa.com](https://github.com/SamuelGreen800/snakes)
+  <br>
+ <br>
+ <p align="center">
+<img src="https://raw.githubusercontent.com/SamuelGreen800/snakes/master/screenshots/screenContact.png"
+  alt="Gilboa.com"
+  width="700">
+</p>
+ 
+ [Flutter](https://github.com/cxgraham/group-flutter)
+ <br>
+ <br>
+ <p align="center">
+<img src="https://raw.githubusercontent.com/cxgraham/group-flutter/main/screen_home.png"
+  alt="Flutter screenshot"
+  width="700">
+</p>
+ 
  
  
