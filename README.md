@@ -44,8 +44,8 @@ Upon graduation, I've now thrown myself into a deep dive of the Java/Spring ecos
      
    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" align=""
      alt="Python logo" width="100" height="100">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img src="https://e7.pngegg.com/pngimages/509/951/png-clipart-flask-by-example-web-framework-python-bottle-bottle-text-logo-thumbnail.png" align=""
-     alt="Flask logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.png" align=""
+     alt="Flask logo"  height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img src="https://quintagroup.com/cms/python/images/jinja2.png/@@images/919c2c3d-5b4e-4650-943a-b0df263f851b.png" align=""
      alt="Jinja logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" align=""
@@ -66,14 +66,16 @@ Upon graduation, I've now thrown myself into a deep dive of the Java/Spring ecos
  ## **Tools:**<br>
  <br>
  
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align=""
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" align="center"
      alt="VsCode logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-        <img src="https://spring.io/images/logo-eclipse-02147c535e095dcbf9798552c191e58a.svg" align=""
+        <img src="https://spring.io/images/logo-eclipse-02147c535e095dcbf9798552c191e58a.svg" align="center"
      alt="Eclipse logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.png" align=""
-     alt="Eclipse logo"  height="50">
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" align=""
-     alt="Eclipse logo" width="50" height="50"><br> 
+     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-ar21.png" align="center"
+     alt="Postman logo"  height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" align="center"
+     alt="Git logo" width="50" height="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+ <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" align="center" 
+     alt="AWS logo" width="100" height="100"><br> 
      <br>
  
      
